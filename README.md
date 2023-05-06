@@ -1,5 +1,5 @@
 # airdrop-0
-DM [@xGhoul0x](https://twitter.com/xGhoul0x) on twitter your telegram info if you are on this list. Further instructions in two weeks.
+DM [@xGhoul0x](https://twitter.com/xGhoul0x) on twitter your telegram info if you are on this list. Further instructions in two weeks*.
 
 
 
@@ -7,3 +7,5 @@ DM [@xGhoul0x](https://twitter.com/xGhoul0x) on twitter your telegram info if yo
 
 
 \- *message recieved May 5th 2023*
+
+*We may change or add addresses by that time.
