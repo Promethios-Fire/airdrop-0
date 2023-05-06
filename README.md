@@ -8,4 +8,7 @@ DM [@xGhoul0x](https://twitter.com/xGhoul0x) on twitter your telegram info if yo
 
 \- *message recieved May 5th 2023*
 
-*We may change or add addresses by that time.
+
+
+
+*DISCLAIMER: We may change or add addresses by that time. You'll know when you know.*
