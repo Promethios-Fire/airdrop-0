@@ -1,9 +1,9 @@
 # Promethios Airdrop-0 Snapshot
 
 **Airdrop CSV Links**
-- [Airdrop Snapshot](https://github.com/ltj866/airdrop-0/blob/main/csv/shares.csv) Addresses in the airdrop list
-- [Claimed friendENS Bonus](https://github.com/ltj866/airdrop-0/blob/main/csv/referral.csv) friendENS bonuses
-- [Unclaimed friendENS](https://github.com/ltj866/airdrop-0/blob/main/csv/unclaimedENSList.csv) If You Are one this list or know someone who is you need to signal your Airdrop.
+- [Airdrop Snapshot](https://github.com/ltj866/airdrop-0/blob/main/csv/shares.csv) - Full list of Addresses availible to claim
+- [Claimed friendENS Bonus](https://github.com/ltj866/airdrop-0/blob/main/csv/referral.csv) - All friendENS bonuses claimed
+- [Unclaimed friendENS](https://github.com/ltj866/airdrop-0/blob/main/csv/unclaimedENSList.csv) - FriendENS Addresses that still need to claim
 
 AirdropSignal Claiming Contract
 https://etherscan.io/address/0xc53de7b2248fc2cb3ee0aa1c2fe6ebb80a78c6b8#writeContract#F1
