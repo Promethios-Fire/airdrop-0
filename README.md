@@ -1,7 +1,7 @@
 # Promethios Airdrop-0 Snapshot
 
 **Airdrop CSV Links**
-- [Airdrop Snapshot](https://github.com/ltj866/airdrop-0/blob/main/csv/shares.csv) - Full list of Addresses available to claim
+- [Airdrop Snapshot](https://github.com/ltj866/airdrop-0/blob/main/csv/snapshot.csv) - Full list of Addresses available to claim
 - [Claimed friendENS Bonus](https://github.com/ltj866/airdrop-0/blob/main/csv/referral.csv) - All friendENS bonuses claimed
 - [Unclaimed friendENS](https://github.com/ltj866/airdrop-0/blob/main/csv/unclaimedENSList.csv) - FriendENS Addresses that still need to claim
 
