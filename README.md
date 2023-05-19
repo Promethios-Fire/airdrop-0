@@ -1,7 +1,7 @@
 # Promethios Airdrop-0 Snapshot
 
 **Airdrop CSV Links**
-- [Airdrop Snapshot](https://github.com/ltj866/airdrop-0/blob/main/csv/snapshot.csv) - Full list of Addresses available to claim
+- [Airdrop Snapshot](https://github.com/ltj866/airdrop-0/blob/main/csv/snapshot.csv) - Full list of Addresses available to claim*
 - [Claimed friendENS Bonus](https://github.com/ltj866/airdrop-0/blob/main/csv/referral.csv) - All friendENS bonuses claimed
 - [Unclaimed friendENS](https://github.com/ltj866/airdrop-0/blob/main/csv/unclaimedENSList.csv) - FriendENS Addresses that still need to claim
 
@@ -34,3 +34,5 @@ https://etherscan.io/address/0xc53de7b2248fc2cb3ee0aa1c2fe6ebb80a78c6b8#writeCon
 - [Pooli Lawyer](https://opensea.io/collection/pooly-lawyer) - 10 Shares per NFT
 - [Pooli Supporter](https://opensea.io/collection/pooly-supporter) - 1 Share Per NFT
 
+* 0x000....0000 and 0x....dead are excluded from airdrop calculations
+*
