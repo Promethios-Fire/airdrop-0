@@ -34,5 +34,4 @@ https://etherscan.io/address/0xc53de7b2248fc2cb3ee0aa1c2fe6ebb80a78c6b8#writeCon
 - [Pooli Lawyer](https://opensea.io/collection/pooly-lawyer) - 10 Shares per NFT
 - [Pooli Supporter](https://opensea.io/collection/pooly-supporter) - 1 Share Per NFT
 
-* 0x000....0000 and 0x....dead are excluded from airdrop calculations
-*
+*\* 0x000....0000 and 0x....dead are excluded from airdrop calculations*
