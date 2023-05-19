@@ -26,7 +26,7 @@ https://etherscan.io/address/0xc53de7b2248fc2cb3ee0aa1c2fe6ebb80a78c6b8#writeCon
 
 **NFT Holders** - 9950 Total Possible Shares
 - [Based Ghouls](https://opensea.io/collection/based-ghouls) - 1 Share per NFT
-- [Rope NFT](https://opensea.io/collection/rope-makers-united) - .25 Shares per NFT
+- [Rope NFT](https://opensea.io/collection/rope-makers-united) - .25 Shares per NFT including staked(0xb8db9ad0e016854675120f03643ab8d41f797862) 
 - [UniSock Redeemers](https://opensea.io/collection/unisocks)
 
 **Pooli Friends** - 10426 Total Possible Shares (One Share per .1 Eth Donated)
