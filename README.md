@@ -16,6 +16,9 @@ _Timestamp that generated csv:
 
 ### Airdrop Qualifications
 
+**Airdrop Claiming Instructions.**
+https://twitter.com/xGhoul0x/status/1658118041656348674?s=20
+
 _At Block Height 15696969 on Ethereum_
 Tweet Thread Version: https://twitter.com/xGhoul0x/status/1658217424599265282
 
