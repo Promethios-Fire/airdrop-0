@@ -17,6 +17,7 @@ _Timestamp that generated csv:
 ### Airdrop Qualifications
 
 _At Block Height 15696969 on Ethereum_
+Tweet Thread Version: https://twitter.com/xGhoul0x/status/1658217424599265282
 
 **Defi Summer** - One Share Per address
 
