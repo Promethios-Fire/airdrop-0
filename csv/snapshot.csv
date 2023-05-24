@@ -62,7 +62,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0x00c2d8fe2eb0036ee57d911a8c70d621efa2407e,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x00c3217f7de62f3c6c014d7203cf999b5549b6bb,,,false,,0,0,10,0,0,0,0,0,2.5,0,2.5,
 0x00c4a4e6c0be04a5523c4020f4dcda6e85ecd7eb,,,false,,0,0,0,0,0,0,1,0,0,1,1,
-0x00c67d9d6d3d13b42a87424e145826c467cccd84,Staked,,true,,1,3,67,0,0,0,0,2,18.5,0,20.5,
+0x00c67d9d6d3d13b42a87424e145826c467cccd84,Staked,,true,,1,3,67,0,0,0,0,2,18.5,0,20.5,Arbitrum
 0x00cda37bfc3dd20349aa901fe8646688218d8772,,,false,,6,0,0,0,0,0,0,0,6,0,6,
 0x00d6216bdbb504a262050eba7534153e90c5faa0,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
 0x00e421ba23dbe6a165255be382f46fcb927f8951,,,false,,0,0,0,0,0,0,1,0,0,1,1,
@@ -915,7 +915,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0x13402fdd4b6554d3fcc1addfe28ce68d98dac145,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x1341df844780b66af4ccc98ae0f34be87eabe1d5,,,false,,0,0,0,0,0,0,1,0,0,1,1,Arbitrum
 0x13494041fa808d6291d325748e697f53fe3969b4,,,false,,0,0,0,0,0,0,1,0,0,1,1,
-0x134c6e76edf4bfb728454916040b84df8c792206,,,false,,1,0,0,0,0,0,0,0,1,0,1,
+0x134c6e76edf4bfb728454916040b84df8c792206,,,false,,1,0,0,0,0,0,0,0,1,0,1,Arbitrum
 0x134fd89319f1fd0c8f2b5ab6e03ec5b9d55a8946,,,false,,0,0,0,0,0,1,4,0,0,14,14,
 0x135fe8114ea17f82ee6643abe965e324a7797957,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x136ac9a9d59cfb320c8ad17f9fd37b4988c5528e,,,false,,0,0,0,0,0,0,1,0,0,1,1,
@@ -1089,11 +1089,11 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0x16cee291dde07de2a64f5921893675d94edd91d6,,,false,,1,0,0,0,0,0,0,0,1,0,1,Arbitrum
 0x16d163f34e38a709a860f40c0c300991c2a8ab13,,,false,,0,0,0,0,0,1,0,0,0,10,10,
 0x16da1d853788c84749baf17bd90610e9ea91dda3,,,false,,1,0,0,0,0,0,0,0,1,0,1,
-0x16dcb6cc3bf04ca487d64c2fbb4c47a9f6af544b,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
+0x16dcb6cc3bf04ca487d64c2fbb4c47a9f6af544b,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,Arbitrum
 0x16df32d3d2d6c63cd6f1b97e87536bfbf7113794,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x16e34fe8efb8b55d0c228dde510fdc97c8da3b95,,,false,,0,0,0,0,0,1,0,0,0,10,10,
 0x16e648667b6bb4c7e572f5cf71874f7dd047da8d,,,false,,0,0,0,0,0,0,1,0,0,1,1,
-0x16e9562ead5eb54151a34841866712c38655037a,,,false,,0,0,0,0,0,0,1,0,0,1,1,
+0x16e9562ead5eb54151a34841866712c38655037a,,,false,,0,0,0,0,0,0,1,0,0,1,1,Arbitrum
 0x16f037a3ddf53da1b047a926e1833219f0a8e1fc,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x16f1eb473003024b8cf4006f0390ffba83c8d8cd,,,false,,0,0,0,0,0,1,0,0,0,10,10,
 0x16fde352ef2ef46440e718abfa27914459bee02b,,,false,,0,0,0,0,0,0,1,0,0,1,1,
@@ -1102,7 +1102,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0x1709f800fc9d0b210b6c1f69a7cdc492899808b6,,Staked,false,,0,0,0,0,0,0,0,1,0,0,1,
 0x170a4421a8eb8ecc533e76ac097805f456a668c7,Staked,Staked,false,,0,0,0,0,0,0,0,2,0,0,2,
 0x170ce88506ee01d6aebb6ee267c550df7a6d4320,Staked,Staked,false,,0,0,0,0,0,0,0,2,0,0,2,
-0x170d4c65a8a11fe8e8a44a25a47d0385338bc5e6,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
+0x170d4c65a8a11fe8e8a44a25a47d0385338bc5e6,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,Arbitrum
 0x17102711723d3cc400b876173ce205f71ec6c04a,Staked,Staked,false,,0,0,0,0,0,0,0,2,0,0,2,
 0x171c1cf42c8e11589381f5e4846ffe4e2c7f6d95,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x171c8be8b92674f7d7b0593aca4619a25a40b6f0,,,false,,0,0,0,0,0,0,1,0,0,1,1,
@@ -1157,7 +1157,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0x1824db66ae6d644f0be2aec44eb0638b76e9a6a7,,,false,,0,0,0,0,0,1,0,0,0,10,10,
 0x1831570e2145ce1048eb566edb9612ec867aa736,,,true,,0,0,0,0,0,0,2,1,0,2,3,
 0x1843d243dd3faf96c2016ebbfbea973d71f6d611,,,false,,0,0,0,0,0,0,1,0,0,1,1,
-0x184467c4a81e0e16d7ec03c9229657ab7682fa17,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
+0x184467c4a81e0e16d7ec03c9229657ab7682fa17,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,Arbitrum
 0x1846fbf59c7a12fcb414fc685ea998c87d19b2ab,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x184c4f086ed057b95d994e4b0b7ff02519e9306a,,,false,,0,17,0,0,0,0,0,0,4.25,0,4.25,
 0x185196c8c5dd5729f22315203e09e33c3f7d7680,,,false,,0,0,0,0,0,0,10,0,0,10,10,Arbitrum
@@ -1279,7 +1279,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0x1aa92044fc962abda6c32992a516f52552603769,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x1aa963e68cfde4dab1df1e15e70b2bb4103c4848,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x1aa998999aa217e50bf416a3df2fc432c1c95380,,,false,,0,1,0,0,0,0,0,0,0.25,0,0.25,
-0x1ab709906bb19663e7593426ef04909f185df0f1,,,false,,6,0,0,0,0,0,0,0,6,0,6,
+0x1ab709906bb19663e7593426ef04909f185df0f1,,,false,,6,0,0,0,0,0,0,0,6,0,6,Arbitrum
 0x1aba5d1c1326fd704090bb01b1c12f70ab3a0252,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
 0x1acfc0e03f3a7d63705ae9034883f15cb575825e,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x1ad05039e712cdef4703cb90c1f501ce2e1cbca0,,,false,,0,0,0,0,0,0,1,0,0,1,1,
@@ -1868,7 +1868,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0x26cf02f892b04af4cf350539ce2c77fcf79ec172,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x26d13c17659e1305344ee31635b5a2b72e94d82e,Staked,Staked,true,,0,0,0,0,0,0,0,3,0,0,3,
 0x26dcce74732648e5537cc2c52e109ff3feac1129,,,false,,0,0,0,0,0,0,1,0,0,1,1,
-0x26e2e8a24e867e5e96ea0c4913e659cdc8a97973,,,false,,3,0,0,0,0,0,0,0,3,0,3,
+0x26e2e8a24e867e5e96ea0c4913e659cdc8a97973,,,false,,3,0,0,0,0,0,0,0,3,0,3,Arbitrum
 0x26f2d5d1ba02da6c9825498708264d0f19eaf717,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x26f753c9201382212eb87c5b58149bea1de59dbf,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
 0x26fbd327c44fa6a4b0ce91fc9018cdd35bfc87cc,,,false,,0,0,0,0,0,0,1,0,0,1,1,
@@ -6589,7 +6589,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0x8e582ae28ba2607f2c06daacf3495943f40436ab,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x8e5f1a8959236545557d85ac3f68d0fdd8159552,,,false,,1,0,0,0,0,0,0,0,1,0,1,
 0x8e5fa9ae967d6b140227cfac73bdf45fe332cbc1,,,false,,0,0,0,0,0,0,1,0,0,1,1,
-0x8e6136ce3572d5c9be30b06b0bc1838f36a16f21,,,false,,3,0,0,0,0,0,0,0,3,0,3,
+0x8e6136ce3572d5c9be30b06b0bc1838f36a16f21,,,false,,3,0,0,0,0,0,0,0,3,0,3,Optimism
 0x8e63e4376dde62cb82f5a91c4bce4156457dedb1,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x8e74351b6c91e729395560438f6c85a16dd4cce4,,,false,,2,0,0,0,0,0,0,0,2,0,2,
 0x8e79c736de9c10c4b9909077560dcd2f78b0b969,,,false,,2,0,0,0,0,0,0,0,2,0,2,
@@ -6908,7 +6908,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0x94fcc905ab89f766b6b850502e605355561eb49b,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x95011b346420127a6c132da9156b53e731206f95,,,false,,0,0,0,0,0,0,1,0,0,1,1,Arbitrum
 0x95045076fc93a14a4e9b576599479cb4f58a1b11,,,false,,0,0,0,0,0,0,1,0,0,1,1,
-0x951214038a220fbdf9803db3dffeb97b12d12314,,,false,,0,1,43,0,0,0,0,0,11,0,11,
+0x951214038a220fbdf9803db3dffeb97b12d12314,,,false,,0,1,43,0,0,0,0,0,11,0,11,Arbitrum
 0x951617153819f015d252fea55475148f66181353,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x9518d856ab1be2bc80cd874f2ec7d2abdc06f1ce,,,false,,0,0,2,0,0,0,0,0,0.5,0,0.5,
 0x951b6d50d07c39b0f97a7bb2f5c1e96f07a093d3,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
@@ -6934,7 +6934,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0x9563c6f3948d9287c3b3d1313d4996aab5edefc9,,,false,,0,0,0,1,0,0,1,0,1,1,2,
 0x9565cc685b367d2d9a3b224a9d01751428c3cd03,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x9567fd16f5c7b9900a6d424af36855205b31c807,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
-0x9568f75d7595193808c5c801fea6aeaba2ef1630,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
+0x9568f75d7595193808c5c801fea6aeaba2ef1630,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,Arbitrum
 0x956d8c7a272202628d516ac000f3663e7feeafe5,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x9578cbfb3528a0271e69d86034b7565bc1d8eacc,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x957ac4c62151ba84d01e90ce6fc868d1ecd578c8,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
@@ -7048,7 +7048,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0x97c036a83f559fa324cf0c6e4fa4456499b77644,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x97c592b9916e7327fedd77da55bd11ebaee78485,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x97ca4bbe1488abcc7186b7f030d23eb6361718cd,,,false,,0,2,0,0,0,0,0,0,0.5,0,0.5,
-0x97ca60a08b2d2c38f14ab18fca6d77457dda0eae,,,false,,0,15,12,0,0,1,0,0,6.75,10,16.75,
+0x97ca60a08b2d2c38f14ab18fca6d77457dda0eae,,,false,,0,15,12,0,0,1,0,0,6.75,10,16.75,Optimism
 0x97d70b9c440f9f01bddbad405e45fc6054987967,Staked,Staked,false,,0,0,0,0,0,0,0,2,0,0,2,
 0x97d712d441574888d335b735b90d2a0c753472ad,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0x97d84361104152305ca89bd94bcb5a489aa23b87,,,false,,0,0,0,0,0,0,1,0,0,1,1,
@@ -7610,7 +7610,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0xa300ad5d48dfba4560c44eb8c551d7cdbd95f300,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
 0xa307064b05b598c47aca897b1a42f0c84bfc52ac,,,false,,3,0,0,0,0,0,0,0,3,0,3,
 0xa30c4b23dcf17be00e0533c2bebb33bbc8ef75d5,,,false,,0,0,0,0,0,13,0,0,0,130,130,
-0xa31545e5f7d4ec0fabf76005064b0577fa0680a3,,,false,,4,0,0,0,0,0,0,0,4,0,4,
+0xa31545e5f7d4ec0fabf76005064b0577fa0680a3,,,false,,4,0,0,0,0,0,0,0,4,0,4,Arbitrum
 0xa31aeea459c1ab0124ed44711a678d6e18874692,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xa31b444f2cfd111d16d61335247e66bc491c9039,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xa31c143f2de92a43e5b663a43045c8f2b77f566f,,,false,,0,1,0,0,0,0,0,0,0.25,0,0.25,
@@ -8010,7 +8010,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0xaafb68b374f65de1964183499607d26221b02514,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
 0xaaff3838c4e10c0004e2f588093d304d1a95ccd6,,,false,,1,0,0,0,0,0,0,0,1,0,1,
 0xab01514eabfe744196a264f2e1b31d5a93a2303f,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
-0xab02469559a8a4ac1131c99b018f4a9314f12c06,Staked,Staked,true,,0,0,0,0,0,0,0,3,0,0,3,
+0xab02469559a8a4ac1131c99b018f4a9314f12c06,Staked,Staked,true,,0,0,0,0,0,0,0,3,0,0,3,Arbitrum
 0xab12253171a0d73df64b115cd43fe0a32feb9daa,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xab13434508eedcc2ff429091268279be536a13ad,Staked,,true,,0,0,0,0,0,0,0,2,0,0,2,
 0xab18913e732754d2977348f2c824f6bc32b216e4,,Staked,false,,0,0,0,0,0,0,0,1,0,0,1,
@@ -8524,7 +8524,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0xb5cd58e6d1ca87d0aa63f2ef03b5f2f24e453867,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xb5cdf652aac55c9f92c950c2fe9fd25b78092db4,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xb5db59f349aeb123e0e56ebad4deacc0afb793af,,,false,,2,0,0,0,0,0,0,0,2,0,2,
-0xb5dc07e23308ec663e743b1196f5a5569e4e0555,,,false,,0,0,11,0,0,0,1,0,2.75,1,3.75,
+0xb5dc07e23308ec663e743b1196f5a5569e4e0555,,,false,,0,0,11,0,0,0,1,0,2.75,1,3.75,Arbitrum
 0xb5eb1cdda34e5a40bebfe839dae65f3b42827721,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xb5fc73176a51925f3537f7195dddb9fe4953629c,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
 0xb5fc9eef8f391051ecfc1c7d71d617181a56539b,Staked,Staked,false,,0,0,0,0,0,0,0,2,0,0,2,
@@ -8568,7 +8568,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0xb6be3e29330d67dc8a76a81c32192da38ee133d5,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xb6c77a721b569a7c4f31e1fbc0780e27d54bdde2,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xb6c9855bc0dd12c8c20731991968fa15fd68ce53,,,false,,0,0,0,0,0,0,1,0,0,1,1,
-0xb6da9e22bfb5c4d5fef69b936817e9a44866b1d1,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
+0xb6da9e22bfb5c4d5fef69b936817e9a44866b1d1,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,Arbitrum
 0xb6e2831af922dfb15389ec5d2ee7d8d894b9bb0f,,,false,,0,0,0,0,0,0,2,0,0,2,2,
 0xb6e2b0906e537bacb4c2c9a39fe0fbe7f1b9bb5b,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xb6f1d510a8e18a9ba14cec92791c026f8f3b9072,,,false,,0,0,0,0,0,0,1,0,0,1,1,
@@ -8582,7 +8582,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0xb71d05cf5cdf7a9b15b20b9aab5e91332c271c96,,Staked,false,,0,1,0,0,0,0,0,1,0.25,0,1.25,
 0xb720f62296ff02549b41dcfe22727b9b6ea52e5d,,Staked,false,,0,0,0,0,0,0,0,1,0,0,1,
 0xb721262e075ad4073ebe4560161a88fef8c82dcd,,,false,,0,0,0,0,0,0,1,0,0,1,1,
-0xb72ca7ee0aa8ad85a4ffd2873baca90bbf85c1c4,Staked,Staked,false,,0,0,0,0,0,0,0,2,0,0,2,
+0xb72ca7ee0aa8ad85a4ffd2873baca90bbf85c1c4,Staked,Staked,false,,0,0,0,0,0,0,0,2,0,0,2,Arbitrum
 0xb72dc1e80a501256ed235a32a815b78fddfbf811,,,false,,4,0,0,0,0,0,0,0,4,0,4,
 0xb73be68f1e37a497c4f5f2310f4cfc21dda4121a,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xb741ff083bd46a5cf5b920bce18f0e0156fbd264,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
@@ -9515,7 +9515,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0xcaa747a69fed95ccbf211bbc06f00be75ad7b6f8,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
 0xcaaeae16dc4a7f2709fd5e57b6ccd36115833bc7,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xcab532dd7a22784afbfed080705f377e20b647e8,,,false,,0,2,0,0,0,0,0,0,0.5,0,0.5,
-0xcac59f91e4536bc0e79ab816a5cd54e89f10433c,,,false,,2,0,0,0,0,0,1,0,2,1,3,
+0xcac59f91e4536bc0e79ab816a5cd54e89f10433c,,,false,,2,0,0,0,0,0,1,0,2,1,3,Arbitrum
 0xcacd733b0bc14993c05d11338ad2dcbb401bc629,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
 0xcace68f6afd8d3c1cb957616e253f4509e62453c,,Staked,false,,0,0,0,0,0,0,0,1,0,0,1,
 0xcadf33673d5914af165e46152923de769547fd2e,Staked,,true,,0,0,0,0,0,0,0,2,0,0,2,
@@ -10045,7 +10045,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0xd653971fa19ef68bc80becb7720675307bfb3ee6,Staked,,true,,0,0,0,0,0,0,0,2,0,0,2,
 0xd66081526b3b447f9a1e63e6b2263f2fdfc9a765,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xd66d617b9d968b21f21b77983353803ffc5491d4,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
-0xd66dcff7d207dd5c5d7323d99cc57d00fa92d4ea,Staked,Staked,true,,0,0,0,0,0,0,0,3,0,0,3,
+0xd66dcff7d207dd5c5d7323d99cc57d00fa92d4ea,Staked,Staked,true,,0,0,0,0,0,0,0,3,0,0,3,Arbitrum
 0xd67360166baf50bd81bf7972ae5a4bc105e79f2a,,,false,,1,0,0,0,0,0,0,0,1,0,1,
 0xd675beff625ca054deacaf6fb2cbffe13adb87ba,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xd67af788ecb24e04a37dbd1e327a024d2e4beed3,,,false,,1,0,0,0,0,0,0,0,1,0,1,Arbitrum
@@ -10402,7 +10402,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0xdd993dd1ebfa99a3a5e7213083cae160c8a41423,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xdda1e0b2c225fc5de845655acad8bad5cb294d81,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xdda4a0608818347168e33f71aea71ba3709924cc,,,false,,0,0,0,0,0,0,1,0,0,1,1,
-0xddadff7e0c08332c982d26738979fd619caea6b6,,,false,,1,0,1,0,0,0,0,0,1.25,0,1.25,
+0xddadff7e0c08332c982d26738979fd619caea6b6,,,false,,1,0,1,0,0,0,0,0,1.25,0,1.25,Arbitrum
 0xddb01664dabef7e491839a7abc62f06495ad91e7,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xddb55d9e5f029d0277b93a5c8ad68e185db6d82c,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xddb78780543de1331d587910ce8eee6e1972009b,,,false,,0,0,0,0,0,0,2,0,0,2,2,
@@ -10640,7 +10640,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0xe30469a02969dd38329df524649ab9e0732227cb,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
 0xe307e911991ed5df44920e648245c49573e6f779,Staked,,false,,1,0,0,0,0,0,0,1,1,0,2,
 0xe31dd19ea5dcf8d99f64ca6f555cc6b125018b62,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
-0xe32339ea896fdfb5a12ad41c97843d1b3e33d5f1,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
+0xe32339ea896fdfb5a12ad41c97843d1b3e33d5f1,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,Arbitrum
 0xe338331e1e1536f544814f3b444ad611bb7b1d9e,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,
 0xe340b00b6b622c136ffa5cff130ec8edcddcb39d,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xe343e47d821a9bce54f12237426a6ef391066b60,,,false,,0,0,0,0,0,4,0,0,0,40,40,
@@ -10743,7 +10743,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0xe54e34714841c48697ae29ce1392515d0bf31a74,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xe54ffbd968f803a704e74b983bf448f2c76902a6,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xe551388b683bb1e34e27e5a7b00eabe79b080bf7,Staked,,true,,0,0,0,0,0,1,0,2,0,10,12,
-0xe5691dfc88e01c16f46560e1a5e6a5ebf0678bf9,,,false,,2,0,0,0,0,0,0,0,2,0,2,
+0xe5691dfc88e01c16f46560e1a5e6a5ebf0678bf9,,,false,,2,0,0,0,0,0,0,0,2,0,2,Arbitrum
 0xe5791410ed0e4f5e9a85204aec7b954efc869e8b,,,false,,0,0,2,0,0,0,0,0,0.5,0,0.5,
 0xe580ab95ebe6156c9717e20d513dd788b341934c,Staked,Staked,true,,0,0,0,0,0,0,0,3,0,0,3,
 0xe582794320fa7424a1f9db360a46446244065cb5,,,true,enlisted,0,0,0,0,0,0,0,2,0,0,2,
@@ -11655,7 +11655,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0xf8fe281a44def550c620882364e4a00f2ea80218,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xf906d355e2ab35967f6f039569469c70fbb25f62,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xf907665e210ddeac7d75042ca95b4da712f52b2f,,,false,,1,0,0,0,0,0,0,0,1,0,1,
-0xf9107317b0ff77ed5b7adea15e50514a3564002b,Staked,Staked,false,,0,0,0,0,0,0,1,2,0,1,3,
+0xf9107317b0ff77ed5b7adea15e50514a3564002b,Staked,Staked,false,,0,0,0,0,0,0,1,2,0,1,3,Arbitrum
 0xf92aae42cb0d6635840ae3ad825283089ac78c67,,Staked,false,,0,40,0,0,0,0,0,1,10,0,11,
 0xf92fcf46e9b20d1d8add494fa80ef7826eae16b8,,,false,,2,0,0,0,0,0,0,0,2,0,2,
 0xf930b0a0500d8f53b2e7efa4f7bcb5cc0c71067e,,,false,,5,0,0,0,0,0,0,0,5,0,5,
@@ -11925,7 +11925,7 @@ address,basePool0,basePool1,yfi,backstop,ghouls,rope,stakedRopeAmount,unisock,po
 0xfebae9a0cea901d190ddf26b9735b26fd7bb629a,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xfebc300c1a955a30870282e1b1aa3eaca7196c98,,,false,enlisted,0,0,0,0,0,0,1,1,0,1,2,
 0xfec1083c50c374a0f691192b137f0db6077dabbb,,,false,,0,0,0,0,0,0,1,0,0,1,1,
-0xfec2de8d9e77214cd219cd03c0e722d82b4de541,,,false,,3,0,0,0,0,0,0,0,3,0,3,
+0xfec2de8d9e77214cd219cd03c0e722d82b4de541,,,false,,3,0,0,0,0,0,0,0,3,0,3,Arbitrum
 0xfec85f09d047ae4063c86ef62e0102150d5eff53,Staked,,false,,0,0,0,0,0,0,0,1,0,0,1,Optimism
 0xfed257209796eec486f2a1c0af1b330857e463c4,,,false,,0,0,0,0,0,0,1,0,0,1,1,
 0xfed7bab3d6d57beaaed27823f5b0f94d5cea0d9c,,,false,,0,0,0,0,0,0,1,0,0,1,1,
