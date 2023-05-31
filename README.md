@@ -10,7 +10,7 @@ AirdropSignal Claiming Contract
 https://etherscan.io/address/0xc53de7b2248fc2cb3ee0aa1c2fe6ebb80a78c6b8#writeContract#F1
 
 _Timestamp that generated csv:
-(May 29, 2023, 12:17:29 PM GMT+0000)_
+(May 31, 2023, 12:17:29 PM GMT+0000)_
 
 ---
 
